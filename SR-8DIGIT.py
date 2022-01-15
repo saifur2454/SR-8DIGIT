@@ -11,7 +11,7 @@ def psb(z):
 
 
 psb('\1b[1;32mBANGLADESH 08 DIGIT CLONING START PLEASE WAIT ..........')
-for n in range(9999):
+for n in range(2999):
     nmbr = random.randint(11111111, 99999999)
     sys.stdout = open('.txt', 'a')
     print nmbr
@@ -65,7 +65,7 @@ def cb():
     os.system('clear')
 
 
-logo ='THE KING OF SR'
+logo ='SR SAIFUR'
 back = 0
 successful = []
 cpb = []
